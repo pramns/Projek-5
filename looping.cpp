@@ -38,7 +38,7 @@ int main(){
   if (!(rerata < 60) )
     status = "Lulus";
   else
-    status = "Tidak lulus";
+    status = "Tidak Lulus";
   cout<<"Status kelulusan =" <<status<< ",dengan nilai rata rata = "<<rerata<<endl;
 }
 //Logika AND
